@@ -1,1 +1,7 @@
 @import "./global.css";
+
+/* utilitarios */
+@import "./utilitarios/componentes.css";
+
+/* home */
+@import "./superinfo.css";
